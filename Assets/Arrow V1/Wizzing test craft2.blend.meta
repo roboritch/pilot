@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 05d2f5941af59514890c414a36820880
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Airbrake_L
+    100002: Airbrake_R
+    100004: Cockpit
+    100006: Colider_Body_L
+    100008: Colider_Body_R
+    100010: Colider_Booster_L
+    100012: Colider_Booster_R
+    100014: Colider_Cockpit
+    100016: Colider_Conecter_L
+    100018: Colider_Conecter_R
+    100020: //RootNode
+    400000: Airbrake_L
+    400002: Airbrake_R
+    400004: Cockpit
+    400006: Colider_Body_L
+    400008: Colider_Body_R
+    400010: Colider_Booster_L
+    400012: Colider_Booster_R
+    400014: Colider_Cockpit
+    400016: Colider_Conecter_L
+    400018: Colider_Conecter_R
+    400020: //RootNode
+    2300000: Airbrake_L
+    2300002: Airbrake_R
+    2300004: Cockpit
+    2300006: Colider_Body_L
+    2300008: Colider_Body_R
+    2300010: Colider_Booster_L
+    2300012: Colider_Booster_R
+    2300014: Colider_Cockpit
+    2300016: Colider_Conecter_L
+    2300018: Colider_Conecter_R
+    2300020: //RootNode
+    3300000: Airbrake_L
+    3300002: Airbrake_R
+    3300004: Cockpit
+    3300006: Colider_Body_L
+    3300008: Colider_Body_R
+    3300010: Colider_Booster_L
+    3300012: Colider_Booster_R
+    3300014: Colider_Cockpit
+    3300016: Colider_Conecter_L
+    3300018: Colider_Conecter_R
+    3300020: //RootNode
+    4300000: Arrow
+    4300002: Colider_Booster_L
+    4300004: Colider_Conecter_L
+    4300006: Colider_Body_L
+    4300008: Colider_Body_R
+    4300010: Colider_Conecter_R
+    4300012: Cockpit
+    4300014: Airbrake_L
+    4300016: Airbrake_R
+    4300018: Colider_Booster_R
+    4300020: Colider_Cockpit
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
