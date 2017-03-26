@@ -16,4 +16,4 @@ Overall this project was a little too ambitious for my first prototype. The proj
 
 ## link to video example
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lQU-S22bg-g" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/lQU-S22bg-g 
